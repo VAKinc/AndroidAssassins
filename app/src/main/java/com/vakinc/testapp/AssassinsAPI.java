@@ -2,7 +2,8 @@ package com.vakinc.testapp;
 
 public class AssassinsAPI {
 
-    private static final String ROOT_URL = "http://192.168.3.14/assassins/v1.0/API.php?apicall=";
+    //TODO: Configure root_url
+    private static final String ROOT_URL = "http://YOUR IP HERE/assassins/v1.0/API.php?apicall=";
 
     public static final int CODE_GET_REQUEST = 1024;
     public static final int CODE_POST_REQUEST = 1025;
