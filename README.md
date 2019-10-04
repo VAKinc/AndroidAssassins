@@ -2,11 +2,11 @@
 
 This app requires a MySQL server configured as follows:
 
-Database: assassins
-Table: players
-id - INT PRIMARY AUTO-INCREMENT, player - VARCHAR 50, roomkey - VARCHAR 4, tar - VARCHAR 50
-Table: games
-roomkey - VARCHAR 50 PRIMARY, player_count - INT DEFAULT: 0, active - BOOLEAN DEFAULT: 0
+Database: assassins  
+Table: players  
+id - INT PRIMARY AUTO-INCREMENT, player - VARCHAR 50, roomkey - VARCHAR 4, tar - VARCHAR 50  
+Table: games  
+roomkey - VARCHAR 50 PRIMARY, player_count - INT DEFAULT: 0, active - BOOLEAN DEFAULT: 0  
 
 Place the contents of the htdocs folder into the htdocs folder of your server.
 Configure htdocs/assassins/includes/Constants.php as necessary for your server.
