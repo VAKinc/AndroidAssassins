@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Assassins</string>
+    <string name="newgamebutton">NEW GAME</string>
+    <string name="welcome">Welcome, assassin.</string>
+    <string name="roomkey">Room Key:&#160;</string>
+    <string name="target">Your target is:&#160;</string>
+    <string name="player_list">Players:</string>
+    <string name="player_name_text">Please enter your name:</string>
+    <string name="player_name_entry">John Smith</string>
+    <string name="submit">Submit</string>
+    <string name="waiting">Waiting for players…</string>
+    <string name="start_game_button">Start Game</string>
+    <string name="joingamebutton">Join Game</string>
+    <string name="roomkey_enter_text">Please enter a room key:</string>
+    <string name="assassinate_button">CONFIRM KILL</string>
+    <string name="gameover">GAME OVER!</string>
+    <string name="gameover_message">The final target has been assassinated.</string>
+    <string name="rejoin_game_prompt">Would you like to rejoin the game in room:</string>
+    <string name="confirm">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="dead">You are dead!</string>
+</resources>
