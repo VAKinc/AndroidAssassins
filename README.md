@@ -1,6 +1,6 @@
 # AndroidAssassin
 
-This app requires a MySQL server. You can configure it using the follwowing commands:
+This app requires an Apache server, and a MySQL server. This can easily be achieved using XAMPP. Configure the MySQL server using the following commands:
 
 > CREATE DATABASE assassins
 
